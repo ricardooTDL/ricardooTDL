@@ -1,7 +1,7 @@
-## Boas vindas ao meu perfil. 💙
+## vindas ao meu perfil. 💙
 
 Meu nome é Ricardo
-- Estou estudando mo alura
+- Estou estudando no alura
 - Estou desenvolvendo na linguagem JavaScript
 
   ### Você pode entrar em contato comigo 📫
