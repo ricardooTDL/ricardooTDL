@@ -6,5 +6,6 @@ Meu nome é Ricardo
 
   ### Você pode entrar em contato comigo 📫
 
-  @marquesricardo360@gmail.com
+  marquesricardo360@gmail.com
+  
   @ricardo.mgarcia_
